@@ -1,0 +1,10 @@
+transformers
+datasets
+pandas
+numpy
+scikit-learn
+seqeval
+matplotlib
+shap
+lime
+jupyter

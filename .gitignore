@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Checkpoints & models
+*.bin
+*.pt
+*.pkl
+outputs/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
